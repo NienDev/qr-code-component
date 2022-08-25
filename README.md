@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/NienDev/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://niendev.github.io/qr-code-component/)
 
 ## My process
 
@@ -43,7 +43,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Tran Dai Nien](https://www.your-site.com)
+- Website - [Tran Dai Nien](https://www.facebook.com/trandainien)
 - Frontend Mentor - [@trandainien](https://www.frontendmentor.io/profile/trandainien)
 - Twitter - [@DaiNienn](https://twitter.com/DaiNienn)
 
